@@ -1,1 +1,13 @@
-Nothing to say......
+---
+layout: page
+title: About
+permalink: /
+---
+
+# 我的个人主页
+
+- GitHub 用户名：hjx891
+- 主页仓库：https://github.com/hjx891/hjx891.github.io
+
+## 我修改了什么
+我替换了 `_config.yml` 和 `_pages/about.md` 的个人信息，更换了头像，并删除了原作者的个人内容。
