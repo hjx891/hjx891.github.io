@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "XXX"
+title                    : "HPC-FORK"
 description              : "Just for fun. "
 repository               : "hjx891/hjx891.github.io"
 google_scholar_stats_use_cdn : true
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "hjx891"
   google_plus      :
   keybase          :
   instagram        :
